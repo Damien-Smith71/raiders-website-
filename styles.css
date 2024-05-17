@@ -1,0 +1,33 @@
+section{
+    background-color: black;
+}
+img{
+    height:600px ;
+    width: 1000px;
+margin-left: 26%;
+}
+h1{
+    text-align: center;
+    background-color: red;
+}
+ol{
+    color: white;
+}
+footer{
+    border: red solid;
+    
+}
+.buttons{
+    margin-left: 39%;
+}
+p{
+    color: white;
+}
+h2{
+    background-color: grey;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+}
